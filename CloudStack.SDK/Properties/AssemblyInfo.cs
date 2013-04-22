@@ -26,11 +26,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("CloudStack .NET SDK")]
-[assembly: AssemblyDescription(".NET client side library for CLoudStack API")]
+[assembly: AssemblyDescription("Strongly typed C#/.NET bindings for CloudStack API calls.")]
 [assembly: AssemblyConfiguration("")]
 
-[assembly: AssemblyVersion("2.02.0.0")]
-[assembly: AssemblyFileVersion("2.02.0.0")]
+[assembly: AssemblyVersion("2.02.0.4")]
+[assembly: AssemblyFileVersion("2.02.0.4")]
 [assembly: AssemblyCompany("The Apache Software Foundation")]
 [assembly: AssemblyCopyright("Copyright © The Apache Software Foundation 2013")]
 

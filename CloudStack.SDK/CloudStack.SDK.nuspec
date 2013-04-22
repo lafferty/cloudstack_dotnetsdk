@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Apache Software Foundation</authors>
+    <owners>Apache Software Foundation</owners>
+    <licenseUrl>http://apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>NuGet package to simplify access to the client library</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <tags>CloudStack SDK .NET</tags>
+  </metadata>
+</package>
